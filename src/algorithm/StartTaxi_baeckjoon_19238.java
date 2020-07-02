@@ -6,6 +6,7 @@ public class StartTaxi_baeckjoon_19238 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Java");
+		
 	}
 
 }
