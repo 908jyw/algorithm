@@ -1,6 +1,6 @@
-package algorithm;
+package baeckjooon;
 
-public class StartTaxi_baeckjoon_19238 {
+public class StartTaxi_19238 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
