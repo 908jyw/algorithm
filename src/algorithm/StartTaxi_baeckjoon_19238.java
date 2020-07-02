@@ -9,6 +9,8 @@ public class StartTaxi_baeckjoon_19238 {
 		
 		System.out.println("테스트 브랜치에 추가");
 		
+		System.out.println("테스트 브랜치에 두번째 추가");
+		
 	}
 
 }
