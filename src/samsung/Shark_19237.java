@@ -1,4 +1,4 @@
-package baeckjooon;
+package samsung;
 
 public class Shark_19237 {
 
