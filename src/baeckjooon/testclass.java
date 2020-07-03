@@ -6,6 +6,9 @@ public class testclass {
 		// TODO Auto-generated method stub
 
 		System.out.println("master 변경");
+		
+		
+		System.out.println("master 변경2");
 	}
 
 }
