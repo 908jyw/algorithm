@@ -9,6 +9,9 @@ public class testclass {
 		
 		
 		System.out.println("master 변경2");
+		
+		
+		System.out.println("master 변경사항 발생");
 	}
 
 }
